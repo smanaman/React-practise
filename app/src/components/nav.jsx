@@ -7,9 +7,9 @@ function Nav() {
     <div className="logo">logo</div>
     <div className="manu">
         <ul>
-            <li>home</li>
-            <li>home</li>
-            <li>home</li>
+            <li>Home</li>
+            <li>Contect</li>
+            <li>About</li>
         </ul>
     </div>
 </nav>
